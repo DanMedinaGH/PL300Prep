@@ -10,4 +10,5 @@ Changed font, border, and background colors of column header, data, and total. <
 Added style presets such as Minimal, Compact, and Alternating Rows. <br/>
 Changed the size and position of the visual. <br/>
 Changed alignment and arrangement of the visuals. <br/>
-Used format painter to copy formatting from other visual.
+Used format painter to copy formatting from other visual. <br/>
+Configured the summarization of field in the visual (avg, min, max, count).
