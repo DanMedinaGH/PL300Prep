@@ -13,3 +13,4 @@ Changed alignment and arrangement of the visuals. <br/>
 Used format painter to copy formatting from other visual. <br/>
 Configured the summarization of field in the visual (avg, min, max, count). <br/>
 Changed column formatting at the visual level and column level. <br/>
+Used custom formatting on columns.
