@@ -11,4 +11,5 @@ Added style presets such as Minimal, Compact, and Alternating Rows. <br/>
 Changed the size and position of the visual. <br/>
 Changed alignment and arrangement of the visuals. <br/>
 Used format painter to copy formatting from other visual. <br/>
-Configured the summarization of field in the visual (avg, min, max, count).
+Configured the summarization of field in the visual (avg, min, max, count). <br/>
+Changed column formatting at the visual level and column level. <br/>
