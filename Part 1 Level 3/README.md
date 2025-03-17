@@ -1,7 +1,7 @@
 # Overview
 Part 1 Level 3 of PL-3OO Prep series. <br/>
 Builds of MyFirstVisualization project. <br/>
-Source data comes from PowerBIData.xlsx from HPIAdmins sheet.
+Source data comes from PowerBIData.xlsx from HPIAdmins and 'PA - CDs' sheet.
 
 
 ## Data and Visual
