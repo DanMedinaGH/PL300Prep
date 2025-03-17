@@ -10,7 +10,8 @@ Has RegionName, Date, and SalesVolume in Matrix visual. <br/>
 Has RegionName, Date, and SalesVolume in Stacked Column Chart visual.<br/>
 Has RegionName, Date, and SalesVolume in Line chart visual. <br/>
 Has RegionName, Date, and 12m%Change in Line and Clustered Column chart visual<br/>
-
+Has FileExtension, Date, and SumOfSize in Matrix, Clustered Column, and Area Chart visuals <br/>
+For Practice Activity 3.<br/>
 
 ## Formatting
 ### Table Visual
@@ -42,3 +43,17 @@ RegionName in legend. <br/>
 Date on x-axis <br/>
 12m%Change on y-axis <br/>
 RegionName in legend <br/>
+
+### Practice Activity 3
+Matrix <br/>
+Date in Rows <br/>
+FileExtension Type in Columns <br/>
+SumOfSize in Values <br/><br/>
+
+Clustered Column <br/>
+FileExtension in x-axis <br/>
+SumOfSize in y-axis <br/><br/>
+
+Area Chart <br/>
+Date on x-axis.  <br/>
+SumOfSize on y-axis <br/>
