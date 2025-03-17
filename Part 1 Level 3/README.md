@@ -5,9 +5,11 @@ Source data comes from PowerBIData.xlsx from HPIAdmins sheet.
 
 
 ## Data and Visual
-Has RegionName and Sum of SalesValue in table visual.
-Has RegionName, Date, and SalesVolume in Matrix visual.
-Has RegionName, Date, and SalesVolume in Bar Chart visual.
+Has RegionName and Sum of SalesValue in table visual. <br/>
+Has RegionName, Date, and SalesVolume in Matrix visual. <br/>
+Has RegionName, Date, and SalesVolume in Stacked Column Chart visual.<br/>
+Has RegionName, Date, and SalesVolume in Line chart visual. <br/>
+Has RegionName, Date, and 12m%Change in Line and Clustered Column chart visual<br/>
 
 
 ## Formatting
@@ -24,9 +26,19 @@ Used custom formatting on columns. <br/>
 ### Matrix Visual
 Created visual RegionName in column and Date in rows, <br/>
 RegionName in row and Date in columns, <br/>
-and SaleVolume in values.
+and SaleVolume in values. <br/>
 
-### Bar Chart Visual
-Date on x-axis
-SalesVolumes on y-axis
-RegionName in legend.
+### Stacked Column Chart Visual
+Date on x-axis <br/>
+SalesVolumes on y-axis <br/>
+RegionName in legend. <br/>
+
+### Line Chart Visual. 
+Date on x-axis <br/>
+SalesVolumes on y-axis <br/>
+RegionName in legend. <br/>
+
+### Line and Clustered Column Chart
+Date on x-axis <br/>
+12m%Change on y-axis <br/>
+RegionName in legend <br/>
