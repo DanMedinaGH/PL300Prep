@@ -17,3 +17,7 @@ Added Shape Arrow visual to point to table that would filter other visuals. <br/
 Added slicer to 'Page 1' of the pbi project to filter by Date. <br/>
 Added sync slicer functionality to the slicer as well, <br/>
 to be visible and affect multiple pages. <br/>
+
+## Small Multiples
+Added Clustered Column Small Multiples on separate page. <br/>
+Year on the x-axis, SumOfSales on the y-axis, and RegionName as the small multiples. <br/>
