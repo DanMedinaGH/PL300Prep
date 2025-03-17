@@ -11,4 +11,9 @@ Added Table Visual to 'Page 1' of project. <br/>
 It included instructions on how to use table visual to filter values from other visuals. <br/>
 
 ## Shape Visual
-Added Shape Arrow visual to point to table that would filter other visuals.
+Added Shape Arrow visual to point to table that would filter other visuals. <br/>
+
+## Slicer Visual
+Added slicer to 'Page 1' of the pbi project to filter by Date. <br/>
+Added sync slicer functionality to the slicer as well, <br/>
+to be visible and affect multiple pages. <br/>
