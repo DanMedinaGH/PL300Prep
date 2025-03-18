@@ -21,3 +21,7 @@ to be visible and affect multiple pages. <br/>
 ## Small Multiples
 Added Clustered Column Small Multiples on separate page. <br/>
 Year on the x-axis, SumOfSales on the y-axis, and RegionName as the small multiples. <br/>
+
+## Drill Through Charts Page
+Added drill through Column charts report page that <br/>
+That can be accessed through drilling through RegionName <br/>
