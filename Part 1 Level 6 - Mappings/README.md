@@ -18,7 +18,10 @@ Can be converted into heat map in the format settings. <br/>
 Uses diverging color scheme to determine how large a measure is. <br/>
 Used to determine the states with the largest population. <br/>
 
+## ArcGIS Map
+Uses ArcGIS software to create map visuals. <br/>
+Similar to Map and Filled Map, but with extra features such as different backgrounds. <br/>
+
 ## Practice Activity 6
 Used Map visual. <br/>
-
 Used to determine the locations with highest address id count. <br/>
